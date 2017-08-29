@@ -7,20 +7,5 @@ public class User {
 
 
 
-    public String getUsername() {
-        return username;
-
-        System.out.println("kkkkkk");
-        System.out.println("kkkkkk");
-        System.out.println("kkkkkk");
-        System.out.println("kkkkkk");
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
-    }
-
-
-
 
 }
